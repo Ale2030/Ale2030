@@ -73,8 +73,8 @@
 
 ### 🌐 Encuéntrame en:
 - 🌍 [Portafolio](http://alexiscuevas.net)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexiscuevas)
-- 💻 [GitHub](https://github.com/alexiscuevas)
+- 💼 [LinkedIn](www.linkedin.com/in/alexis-cuevas-dev)
+- 💻 [GitHub](https://github.com/Ale2030)
 
 ---
 
