@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Alexis Cuevas!
 
 ### 🚀 Sobre mí
-- 💻 Desarrollador Full Stack con experiencia en **Spring Boot**, **Laravel**, **Node.js** y más.
+- 💻 Desarrollador Full Stack con experiencia en **Spring Boot**, **Node.js** y más.
 - 📫 Contáctame en [alexiscuevas551@gmail.com](mailto:alexiscuevas551@gmail.com) o visita mi [portafolio](http://alexiscuevas.net).
 
 ---
